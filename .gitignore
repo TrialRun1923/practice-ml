@@ -1,0 +1,9 @@
+data/raw/
+*.csv
+*.pkl
+*.joblib
+*.pt
+*.h5
+__pycache__/
+.venv/
+.DS_Store
